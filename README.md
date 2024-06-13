@@ -75,7 +75,7 @@ BrainBuddy application runs on 4 server
 ![Screenshot (300)](https://github.com/aasthakourav20/BrainBuddy/assets/148269962/2f63e6ea-3bf7-4976-a104-c1cc470e4372)
 
 #### AI Chat
-![1538b7b1-41b3-4734-b74b-0092750f47df](https://github.com/aasthakourav20/BrainBuddy/assets/126336384/a2653f47-045b-41ce-951e-da36286240fc)
+![Screenshot (299)](https://github.com/aasthakourav20/BrainBuddy/assets/148269962/60254632-1a2e-4842-b933-e3214b3db629)
 
 
 
