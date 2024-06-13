@@ -1,10 +1,10 @@
-# BrainBuddy
+# BrainBuddy🧠🤝
 ## A mental health chat assistant
 
 BrainBuddy is a mental health **AI** powered chat assistant that guides and helps you to improve your mental health.
 BrainBuddy website provides a user-friendly UI to learn about mental health.
 
-## Features
+## Features🚀
 
 - AI chat assistant to take guidance about mental health.
 - Analyse your mental health over a period of time.
@@ -14,7 +14,7 @@ BrainBuddy website provides a user-friendly UI to learn about mental health.
 
 
 
-## Tech
+## Tech🛠️
 
 #### System Design
 BrainBuddy application runs on 4 server
@@ -40,7 +40,7 @@ BrainBuddy application runs on 4 server
   - Mongo DB
   - Firebase
  
-## How to Setup Locally?
+## How to Setup Locally?⚙️
 ### Firebase Setup
   1. Setup a new Firebase project
   2. Add a Web App
@@ -66,7 +66,7 @@ BrainBuddy application runs on 4 server
   5. Run Websocketserver by, ```node index.js```
   
     
-## Website Preview
+## Website Preview📰
 
 #### HomePage 
 ![Screenshot (296)](https://github.com/aasthakourav20/BrainBuddy/assets/148269962/86672a12-eff7-47e0-a2cf-91af9f83c625)
